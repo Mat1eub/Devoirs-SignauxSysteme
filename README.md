@@ -1,9 +1,11 @@
 # Homerworks from LEPL1106
-
+Regardez les commentaires détaillés des commit !
 ## Summary
-Devoir 1 : `Intro`
-Devoir 2 : `Convolution et réponse impulsionnelle`
-Devoir 4 : `Série de Fourier`
-Devoir 6 : `Filtre`
-Devoir 9 : `Stabilité`
-Devoir 10 : `Manipulation de système`
+| N° devoir | Sujet |
+| ------ | --------------- |
+| 1 | `Intro` |
+| 2 | `Convolution et réponse impulsionnelle` |
+| 4 | `Série de Fourier`|
+| 6 | `Filtre` |
+| 9 | `Stabilité` |
+| 10 | `Manipulation de système` |
